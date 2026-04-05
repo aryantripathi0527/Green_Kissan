@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+Checkpoints/
+Data/
+LSTM/checkpoints/
+XGBoost/Checkpoints/
+Outputs/
+.env
+*.npy
+*.pt
+*.pkl
